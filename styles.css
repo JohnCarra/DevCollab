@@ -34,6 +34,18 @@ h2 {
     justify-content: center;
     align-items: center;
 }
+.contactbutton {
+    background-color: #ffffff;
+    border: 2px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 2px;
+    cursor: pointer;
+  }
 
 /* Colors */
 :root {
